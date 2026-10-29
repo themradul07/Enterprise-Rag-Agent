@@ -1,0 +1,16 @@
+{
+  "faithfulness": [
+    {
+      "question": "How do you start Redis for a Kubernetes work queue?",
+      "faithfulness": 0.0
+    },
+    {
+      "question": "What does the parallelism field do in the Kubernetes job-wq-2 man",
+      "faithfulness": 0.0
+    },
+    {
+      "question": "How do you fill the Redis work queue with tasks using the CLI?",
+      "faithfulness": 0.0
+    }
+  ]
+}

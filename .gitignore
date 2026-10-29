@@ -1,0 +1,79 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+.venv/
+genv/
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Environment variables
+.env
+.env*.local
+*.env
+!.env.example
+
+# Local Vector Store & Embeddings
+index.faiss
+metadata.pkl
+*.faiss
+*.pkl
+chroma_db/
+qdrant_storage/
+
+# Data caches & temporary outputs
+*.tmp
+
+# IDEs & Editors
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS generated files
+.DS_Store
+Thumbs.db
+ehthumbs.db
+desktop.ini
+
+# Virtual environments & custom env names
+enterprise_env/
+tenvv/
+
+# Documentation / Scratch notes
+commands.md
+
+# Logfire & telemetry
+.logfire/
+.logfire
+
+# Claude Code memory & session data
+.claude/
+
+# Testing & Type Checking caches
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.coverage
+htmlcov/
+
+# Logs
+*.log
+
